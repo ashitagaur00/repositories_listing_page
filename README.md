@@ -1,11 +1,10 @@
 # Github repositories listing page
 
+This repo lists all of your GitHub repos onto a webpage. A demo can be found here: https://ashitagaur00.github.io/repositories_listing_page/
+
 ## Overview
-
-This repo lists all of your GitHub repos onto a webpage. A demo can be found here:
-
-
 This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+
 
 ## Prerequisites
 
