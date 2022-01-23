@@ -1,5 +1,5 @@
 # Github repositories listing page
-An Angular application that allows a user to search GitHub username and get the persons profile details and list of repos. A demo can be found here: https://ashitagaur00.github.io/repositories_listing_page/
+An Angular application that allows a user to search GitHub username and get the persons profile details and list of repos.
 
 ## Overview
 This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
