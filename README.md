@@ -27,7 +27,6 @@ step 2 : install/add -
 
 ```html
 ng add @angular/material 
-npm i ngx-pagination
 npm i rxjs@6.3.3  
 npm i rxjs-observable
 ```
